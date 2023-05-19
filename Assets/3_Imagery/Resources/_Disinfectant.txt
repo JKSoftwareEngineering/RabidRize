@@ -1,0 +1,11 @@
+
+
+
+
+
+
+
+
+
+Medical item when brought into battle decreases the odds
+of becoming sick when there is a high risk of infection

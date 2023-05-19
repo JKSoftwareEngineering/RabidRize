@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+
+Damage: 10-14
+Range: 5-9
+Volume: 3
+Associated Skill: Skill
+
+This is a standard military M16, the color is black, it
+has an open site, and has a solid stock

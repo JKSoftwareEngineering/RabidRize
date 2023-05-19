@@ -1,0 +1,1980 @@
+50
+150
+0
+700
+20
+MacKenzie
+1
+1
+1
+100
+13
+12
+14
+18
+16
+20
+22
+None
+None
+None
+None
+None
+None
+None
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+50
+150
+0
+700
+20
+Dekota
+1
+1
+1
+100
+12
+14
+16
+20
+18
+22
+12
+None
+None
+None
+None
+None
+None
+None
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+50
+150
+0
+700
+20
+Jon
+1
+1
+1
+100
+10
+16
+18
+22
+20
+12
+14
+None
+None
+None
+None
+None
+None
+None
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+50
+150
+0
+700
+20
+Nick
+1
+1
+1
+100
+12
+18
+20
+12
+22
+14
+16
+None
+None
+None
+None
+None
+None
+None
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+50
+150
+0
+700
+20
+Luke
+1
+1
+1
+100
+11
+20
+22
+14
+12
+16
+18
+None
+None
+None
+None
+None
+None
+None
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+50
+150
+0
+700
+20
+Will
+1
+1
+1
+100
+9
+22
+12
+16
+14
+18
+20
+None
+None
+None
+None
+None
+None
+None
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+50
+150
+0
+700
+20
+Dave
+1
+1
+1
+100
+12
+26
+8
+16
+27
+4
+11
+9mm
+Baseball Bat
+Pipe Bomb
+Molotov
+Bandage
+None
+None
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+50
+150
+0
+700
+20
+Emma
+1
+1
+1
+100
+10
+10
+10
+10
+10
+10
+10
+None
+None
+None
+None
+None
+None
+None
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+50
+150
+0
+700
+20
+Noah
+1
+1
+1
+100
+10
+10
+10
+10
+10
+10
+10
+None
+None
+None
+None
+None
+None
+None
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+50
+150
+0
+700
+20
+Ava
+1
+1
+1
+100
+10
+10
+10
+10
+10
+10
+10
+None
+None
+None
+None
+None
+None
+None
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+50
+150
+0
+700
+20
+James
+1
+1
+1
+100
+10
+10
+10
+10
+10
+10
+10
+None
+None
+None
+None
+None
+None
+None
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+50
+150
+0
+700
+20
+Sophia
+1
+1
+1
+100
+10
+10
+10
+10
+10
+10
+10
+None
+None
+None
+None
+None
+None
+None
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+50
+150
+0
+700
+20
+Jacob
+1
+1
+1
+100
+10
+10
+10
+10
+10
+10
+10
+None
+None
+None
+None
+None
+None
+None
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+50
+150
+0
+700
+20
+Aiden
+1
+1
+1
+100
+10
+10
+10
+10
+10
+10
+10
+None
+None
+None
+None
+None
+None
+None
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+50
+150
+0
+700
+20
+Victoria
+1
+1
+1
+100
+10
+10
+10
+10
+10
+10
+10
+None
+None
+None
+None
+None
+None
+None
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+50
+150
+0
+700
+20
+Daniael
+1
+1
+1
+100
+10
+10
+10
+10
+10
+10
+10
+None
+None
+None
+None
+None
+None
+None
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+50
+150
+0
+700
+20
+Nora
+1
+1
+1
+100
+10
+10
+10
+10
+10
+10
+10
+None
+None
+None
+None
+None
+None
+None
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+50
+150
+0
+700
+20
+Jack
+1
+1
+1
+100
+10
+10
+10
+10
+10
+10
+10
+None
+None
+None
+None
+None
+None
+None
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+50
+150
+0
+700
+20
+Zoey
+1
+1
+1
+100
+10
+10
+10
+10
+10
+10
+10
+None
+None
+None
+None
+None
+None
+None
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+50
+150
+0
+700
+20
+Anna
+1
+1
+1
+100
+10
+10
+10
+10
+10
+10
+10
+None
+None
+None
+None
+None
+None
+None
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Baseball Bat
+20 Guage Shotgun
+9mm
+Machete
+Kitchen Knife
+20 Guage Shotgun
+Baseball Bat
+9mm
+12 Gauge Shotgun
+Kitchen Knife
+Baseball Bat
+9mm
+Revolver
+Bolt Action Rifle
+20 Guage Shotgun
+Baseball Bat
+Revolver
+12 Gauge Shotgun
+M16
+Sledge Hammer
+Machete
+Machete
+M16
+2X4
+12 Gauge Shotgun
+Bolt Action Rifle
+20 Guage Shotgun
+Revolver
+AK 47
+Sledge Hammer
+20 Guage Shotgun
+Combat Knife
+Revolver
+20 Guage Shotgun
+Combat Knife
+Sledge Hammer
+9mm
+M16
+20 Guage Shotgun
+Combat Knife
+12 Gauge Shotgun
+Machete
+2X4
+Baseball Bat
+Kitchen Knife
+Baseball Bat
+20 Guage Shotgun
+Baseball Bat
+2X4
+Bolt Action Rifle
+Bolt Action Rifle
+Sledge Hammer
+AK 47
+Baseball Bat
+Bolt Action Rifle
+Baseball Bat
+M16
+Combat Knife
+Revolver
+Baseball Bat
+20 Guage Shotgun
+M16
+Revolver
+12 Gauge Shotgun
+AK 47
+12 Gauge Shotgun
+20 Guage Shotgun
+Kitchen Knife
+Combat Knife
+Revolver
+Kitchen Knife
+9mm
+Sledge Hammer
+9mm
+AK 47
+Combat Knife
+2X4
+Bolt Action Rifle
+Machete
+Kitchen Knife
+AK 47
+2X4
+Baseball Bat
+2X4
+9mm
+Baseball Bat
+12 Gauge Shotgun
+12 Gauge Shotgun
+12 Gauge Shotgun
+2X4
+Baseball Bat
+Machete
+Sledge Hammer
+12 Gauge Shotgun
+Baseball Bat
+20 Guage Shotgun
+AK 47
+2X4
+12 Gauge Shotgun
+9mm
+Chest Plate
+Metal Suit
+Ball Cap
+Gas Mask
+Gas Mask
+Sports Padding
+Doctors Scrubs
+Chest Plate
+Sports Gear
+Riot Shield
+Doctors Scrubs
+Bandalear
+Hard Hat
+Riot Shield
+Sports Gear
+Face Mask
+Thick Gloves
+Riot Shield
+Bandalear
+Police Vest
+Riot Gear
+Hard Hat
+Face Mask
+Riot Gear
+Sports Padding
+Gas Mask
+Sports Padding
+Sports Gear
+Gas Mask
+Doctors Scrubs
+Riot Gear
+Doctors Scrubs
+Bandalear
+Hazmat Suit
+Hazmat Suit
+Sports Padding
+Riot Gear
+Bandalear
+Metal Suit
+Bandalear
+Ball Cap
+Sports Padding
+Sports Padding
+Gas Mask
+Hazmat Suit
+Ball Cap
+Bandalear
+Sports Padding
+Riot Gear
+Hazmat Suit
+Face Mask
+Ball Cap
+Sports Gear
+Riot Gear
+Sports Padding
+Police Vest
+Thick Gloves
+Bandalear
+Doctors Scrubs
+Police Vest
+Police Vest
+Riot Shield
+Face Mask
+Sports Padding
+Sports Gear
+Hazmat Suit
+Sports Gear
+Hazmat Suit
+Thick Gloves
+Hard Hat
+Ball Cap
+Sports Padding
+Sports Gear
+Riot Shield
+Riot Gear
+Face Mask
+Bandalear
+Riot Gear
+Riot Gear
+Chest Plate
+Face Mask
+Riot Gear
+Face Mask
+Riot Gear
+Gas Mask
+Sports Padding
+Face Mask
+Chest Plate
+Chest Plate
+Chest Plate
+Hazmat Suit
+Hard Hat
+Hard Hat
+Sports Gear
+Riot Gear
+Bandalear
+Face Mask
+Hazmat Suit
+Hard Hat
+Thick Gloves
+Antibiotic
+Medkit
+Antibiotic
+Flare
+Flare
+Trauma Bag
+Medkit
+Molotov
+Flash Bang
+Molotov
+Disinfectant
+Bandage
+Flash Bang
+Molotov
+Disinfectant
+Disinfectant
+Flare
+Molotov
+Disinfectant
+Trauma Bag
+Pipe Bomb
+Flash Bang
+Flash Bang
+Trauma Bag
+Pipe Bomb
+Flare
+Pipe Bomb
+Pipe Bomb
+Flare
+Trauma Bag
+Medkit
+Bandage
+Flare
+Flash Bang
+Antibiotic
+Trauma Bag
+Antibiotic
+Antibiotic
+Trauma Bag
+Flash Bang
+Molotov
+Disinfectant
+Trauma Bag
+Disinfectant
+Flash Bang
+Pipe Bomb
+Granade
+Granade
+Antibiotic
+Pipe Bomb
+Granade
+Disinfectant
+Disinfectant
+Pipe Bomb
+Flash Bang
+Disinfectant
+Flash Bang
+Granade
+Flash Bang
+Granade
+Flash Bang
+Bandage
+Pipe Bomb
+Flash Bang
+Flash Bang
+Pipe Bomb
+Trauma Bag
+Pipe Bomb
+Pipe Bomb
+Granade
+Antibiotic
+Molotov
+Molotov
+Flare
+Bandage
+Flash Bang
+Medkit
+Granade
+Disinfectant
+Bandage
+Trauma Bag
+Antibiotic
+Trauma Bag
+Disinfectant
+Medkit
+Trauma Bag
+Antibiotic
+Flare
+Granade
+Molotov
+Disinfectant
+Trauma Bag
+Medkit
+Granade
+Medkit
+Flare
+Pipe Bomb
+Pipe Bomb
+Granade
+Trauma Bag

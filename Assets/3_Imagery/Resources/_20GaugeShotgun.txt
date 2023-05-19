@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+
+Damage: 8-16
+Range: 2-4
+Volume: 4
+Associated Skill: Brawn
+
+Standard pump-action single barrel shotgun with open
+sites and a wooden stock.

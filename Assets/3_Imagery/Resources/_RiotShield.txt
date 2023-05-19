@@ -1,0 +1,15 @@
+
+
+
+
+
+
+
+
+
+Protection: 10%
+Reduction: 3
+Utility: Ignores Explosives
+
+Police grade riot shield, this is clear, the shield
+negates grenade weapons

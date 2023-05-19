@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+
+Protection: 5%
+Reduction: 6
+Utility: N/A
+
+This is a suit of scrap metal that someone has assembled
+to provide a decent amount of armor, there are weld 
+marks and the metal doesn't shine

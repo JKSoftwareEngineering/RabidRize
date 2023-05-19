@@ -1,0 +1,15 @@
+
+
+
+
+
+
+
+
+
+Damage: 0 
+Range: 2
+Volume: 1
+Associated Skill: N/A
+
+Using the flare causes the effect Light Up

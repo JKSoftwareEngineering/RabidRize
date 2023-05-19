@@ -1,0 +1,15 @@
+
+
+
+
+
+
+
+
+
+Protection: 0
+Reduction: 0
+Utility: 50% Disease Resistance
+
+A modern take on the WW2 gas mask, it covers the full
+face with a two prong breathing apparatus.

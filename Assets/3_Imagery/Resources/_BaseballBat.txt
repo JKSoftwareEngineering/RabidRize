@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+
+Damage: 5-9
+Range: 1
+Volume: 1
+Associated Skill: Brawn
+
+Standard hasty apocalyptic weapon, a wooden baseball bat
+with nails in the end

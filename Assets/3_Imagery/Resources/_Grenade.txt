@@ -1,0 +1,15 @@
+
+
+
+
+
+
+
+
+
+Damage: 12
+Range: 2
+Volume: 4
+Associated Skill: N/A
+
+This is a military grade fragmentation grenade.

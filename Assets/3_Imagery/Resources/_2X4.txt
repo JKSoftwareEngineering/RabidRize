@@ -1,0 +1,15 @@
+
+
+
+
+
+
+
+
+
+Damage: 3-4
+Range: 1
+Volume: 1
+Associated Skill: Brawn
+
+In tact full length 2x4

@@ -1,0 +1,51 @@
+If your reading this then you have decided to continue working on the project
+
+I dont have time to do these things before the 15th
+
+there are a handfull of things that are nessisary to do to get the project back into fighting shape.  
+	All of the assets submitted by may 14th 12pm are in the project
+
+	additional images might need to be scaled and reformated these are the root images in the files and not the image objects in the game.
+		all of the other images are formated as a square 800X800px .png and might need to be scaled to look corect in that format.
+		some of the files have .png.png file type just ignore it if it happens unity just delete the 2nd .png .
+		be sure to convert then to 2d UI sprites in unity
+	
+	there is a system and description within the weapons utility and armor class scripts.  they are virtually identical.
+		there werent enough character descriptions to warant adding a loading system in the description menu with time constraints.
+			just mimic the system within the inventory menu system and add the loading methods to the survivor class
+			when giving them specific names and back strories remove the survivors from the betweenPhaseData and create a method for that survivor then assign the survivor by method in the betweenPhaseData
+
+		If you prefer you can also simply wright the descriptions in code under the appropriate page (page numbers are inverted in script)
+			note: if you do this you then that page needs to point to that survivor and that survivor only and might need an exemption added to the lacalList[]
+
+	Adding objs from the prefab imports folder.  
+		This is the folder used for all of the raw objects entering the game.
+			these objects will need to be sized, named, have additional assets added underneath, coliders, and need to be incorperated into the pathfinder
+	
+		They are not all at the same scale and will need to be mostly eyeballed into scale within unity 
+
+		materials need to be made from the mtls which are located in Imagery/ObjectImages/Mtl
+
+	Advise that you make a backup before modifying scripts
+		additional enemies or targets need to be added to the infected AI and need to be taged as enemy to be recognised by the player characters.
+		
+		Dont not remove Bypass.  It dosnt do much but it does tie together importand scripts and they need to be activated after start but within the first update frame
+		
+		if the game is not updating between scenes make sure betweenPhaseData is false in every scene but main menu.
+		
+		some of the perks are complex and effect multiple systems mainly the mouse manager, change selected member script, and infected AI
+			if you have an error look there first
+		
+		the only perk that I left active at all times was injured. - this might cause unpredicted effect when testing 
+			turn this off by selecting the survivor and deactivating injured within modifyerTester Dont just deactivat the whole script or you will get null errors
+
+		the order that scripts are added to the objects matters
+			be sure if you remove or replace one that you put the new one back in the same spot
+
+		Some scripts refer directly to child object positions instead of searching for a name
+			children cant be searched directly and must be found by searching the parent then the next child and so on.
+			if you get a null error durring play you likely need to add either a parent or a child to the object (even if they are just empty placeholders)
+
+		Those are the problems that you might face that arnt otherwise documented by txt files or comments.  
+
+Fair warning this project is more complex than it seems on the surface

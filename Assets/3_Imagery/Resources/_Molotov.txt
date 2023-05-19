@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+
+Damage: 6
+Range: 2
+Volume: 2
+Associated Skill: N/A
+
+This is a fire base weapon that when thrown will cause
+Fire Burning, the weapon is a glass bottle with a rag

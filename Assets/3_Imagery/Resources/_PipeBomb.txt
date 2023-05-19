@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+
+Damage: 8
+Range: 2
+Volume: 4
+Associated Skill: N/A
+
+This is a metal pipe capped on both ends and filled with
+explosives.

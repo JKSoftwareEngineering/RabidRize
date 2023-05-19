@@ -1,0 +1,15 @@
+
+
+
+
+
+
+
+
+
+Damage: 5-10
+Range: 2-4
+Volume: 2
+Associated Skill: Skill
+
+This is a 9mm pistol, black in color

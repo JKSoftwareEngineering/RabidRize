@@ -1,0 +1,34 @@
+total food
+total fuel
+total medical
+total rawMaterials
+total activeSurvivors
+---loop active survivors---
+Survivor.name
+Survivor.Level;
+Survivor.XP;
+Survivor.Health;
+Survivor.ActionPoints;
+Survivor.Body;
+Survivor.Brawn;
+Survivor.Skill;
+Survivor.Senses;
+Survivor.Intelligence;
+Survivor.Influence;
+Survivor.Weapon1;
+Survivor.Weapon2;
+Survivor.Utility1;
+Survivor.Utility2;
+Survivor.Utility3;
+Survivor.ArmorHead;
+Survivor.ArmorHand;
+Survivor.ArmorBody;
+Survivor.ItemPickedUp;
+Survivor.Perks;[30]
+Survivor.Conditions;[30] 
+---loop weapons owned---
+---loop armor owned---
+---loop utility owned---
+
+note:loop of 30 for condodtons, perks. and status effects
+	note: status effects not yet defined and therefor not yet implemented

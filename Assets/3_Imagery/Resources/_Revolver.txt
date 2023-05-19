@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+
+Damage: 6-12
+Range: 2-4
+Volume: 3
+Associated Skill: Skill
+
+This is a single action 6 round revolver with a metal
+finish

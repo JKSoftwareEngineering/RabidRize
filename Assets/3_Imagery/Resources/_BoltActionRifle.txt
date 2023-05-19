@@ -1,0 +1,15 @@
+
+
+
+
+
+
+
+
+
+Damage: 10-13
+Range: 10+
+Volume: 2
+Associated Skill: Skill
+
+Scoped bolt action rifle with a wooden stock.

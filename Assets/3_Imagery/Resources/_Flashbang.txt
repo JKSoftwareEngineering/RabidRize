@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+
+Damage: 0 
+Range: 2
+Volume: 4
+Associated Skill: N/A
+
+This is a cylindrical grenade that when used decreases
+the accuracy of those affected Friend and foe

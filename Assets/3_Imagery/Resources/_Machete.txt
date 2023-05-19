@@ -1,0 +1,15 @@
+
+
+
+
+
+
+
+
+
+Damage: 6-7
+Range: 1
+Volume: 1
+Associated Skill: Brawn
+
+A common gardening tool, the handle is black plastic

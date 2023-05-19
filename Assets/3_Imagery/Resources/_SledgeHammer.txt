@@ -1,0 +1,15 @@
+
+
+
+
+
+
+
+
+
+Damage: 10-15
+Range: 1
+Volume: 3
+
+This is a common construction tool with a metal head and
+a wooden handle

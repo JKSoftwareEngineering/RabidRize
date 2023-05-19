@@ -1,0 +1,38 @@
+newmtl EU43stk1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+bump  -bm 0.3 EU43stk1.tif
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 6.50
+newmtl EU43stp3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 6.50
+newmtl EU43twg2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+bump  -bm 0.3 EU43twg2.tif
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 10.00
+newmtl lambert2SG
+illum 4
+Kd 0.10 0.21 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.35 0.30 0.24
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
